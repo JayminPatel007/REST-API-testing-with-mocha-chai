@@ -1,0 +1,6 @@
+{
+    "mongoURI": "", //Enter Your mongoDb URI here
+    "jwtsecret": "this is my secret",
+    "githubClientId": "", //Enter github client ID
+    "githubSecret": "" //Enter github secret
+}
